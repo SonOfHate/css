@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+}
+
+.top-container {
+  background-color: #fff7bd;
+  position: relative;
+  padding-top: 0;
+  margin: 0 0;
+  background-image: url("https://i.gifer.com/BjHV.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.middle-container {
+  background-color: #82c7ff;
+  padding: 0 0 0 10px;
+  margin: auto;
+}
+
+.bottom-container {
+  background-color: #3878ff;
+  padding: 35px 0 20px 0;
+  margin: 0 auto 0 auto;
+}
+
+.top-sun {
+  position: relative;
+  left: 21.250rem;
+  top: 2.3rem;
+  width: 9.5rem;
+}
+.waves {
+  position: relative;
+  width: 100%;
+  height: 20rem;
+}
+
+h1 {
+  font-family: 'Gochi Hand', cursive;
+  font-size: 4.062em;
+  margin: 50px auto 5px auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 2.5rem;
+  margin-top: 5px;
+  color: #066163;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 1.3rem;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  width: 15%;
+  margin-top: 10px;
+  border: 3px solid;
+}
+
+.web-dev {
+  border-radius: 15%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.controller {
+  border-radius: 35%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.music-prod {
+  border-radius: 40%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  margin: 6.25rem auto 6.25rem auto;
+  width: 55%;
+  text-align: left;
+  line-height: 1;
+}
+
+p {
+  font-size: 1.562em;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+a {
+  color: #113582;
+  text-decoration: none;
+}
+
+.border {
+  border-style: dotted none none none;
+  border-color: #EFFFFD;
+  border-width: 5px;
+  width: 45px;
+  position: relative;
+  margin: auto;
+}
+
+.footer-link {
+  display: inline-block;
+  margin: auto 10px auto 10px;
+  font-size: 140%;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border-bottom: 20px;
+  display: inline-block;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.trademark {
+  font-size: 100%;
+  color: #113582;
+}
+
+a:hover {
+  color: #B8FFF9;
+  font-weight: bold;
+}
